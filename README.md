@@ -3,7 +3,7 @@ A procedurally animated worm!
 
 Made in HTML Canvas!
 
-https://github.com/user-attachments/assets/62558a26-e5fd-43e4-a6ed-3cedf71d79a4
-https://github.com/user-attachments/assets/35c94702-29f5-498a-aa48-86321afce929
+![Animation](https://github.com/user-attachments/assets/039da514-6b48-4cc8-94da-bb6718648590)
+![Animation](https://github.com/user-attachments/assets/ffcb8b49-88dc-4c91-98b1-21542d874d4c)
 
 was just a quick project!
