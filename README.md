@@ -7,3 +7,4 @@ Made in HTML Canvas!
 ![Animation](https://github.com/user-attachments/assets/ffcb8b49-88dc-4c91-98b1-21542d874d4c)
 
 was just a quick project!
+now supports procedural size gen algo!
