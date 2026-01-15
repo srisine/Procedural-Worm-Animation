@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/2cff8d26-a791-4e7a-afb2-d49ee7518be7
 # Procedural-Worm-Animation
 A procedurally animated worm!
 
